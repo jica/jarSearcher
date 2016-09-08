@@ -1,2 +1,0 @@
-Summary for /www/javadecompilers/app/public/data/30.08.16/52bb829f5716bb016c8c6d1b66d02483/TiJarSearcher.jar
-Decompiled with CFR 0_115
